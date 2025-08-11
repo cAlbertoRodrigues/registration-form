@@ -38,7 +38,6 @@ registration-form/
 
 - **HTML5** — semantic markup and accessible forms.
 - **CSS3** — modern styling with a focus on usability and visual presentation.
-- **Icons and Illustrations** — graphic elements that enrich the interface and facilitate understanding.
 
 ---
 
@@ -47,17 +46,6 @@ registration-form/
 You can view the form online:
 
 ​ [Access “Stars of Tomorrow” here](https://calbertorodrigues.github.io/registration-form/) :contentReference[oaicite:3]{index=3}
-
----
-
-## ​ Future Features (Suggestions)
-
-- JavaScript validation for email, zip code, and phone number formats.
-- Dynamic visual feedback for uploads (e.g., file name).
-- Confirmation modal when submitting the form.
-
-- Development of a backend form (PHP, Node.js, or other technology) to capture and save data.
-- Responsiveness for mobile devices.
 
 ---
 
